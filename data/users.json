@@ -1,0 +1,86 @@
+{
+  "users": [
+    {
+      "userId": 1,
+      "userName": "mustafa qarqash",
+      "userEmail": "mostfakarkash@gmail.com",
+      "userPassword": "tnlmhgffnh3",
+      "id": "3677"
+    },
+    {
+      "userId": 2,
+      "userName": "AbdallahAwaysheh",
+      "userEmail": "AbdallahAwaysheh@gmail.com",
+      "userPassword": "tnlmhgffnh3",
+      "id": "a069"
+    },
+    {
+      "userId": 3,
+      "userName": "Abdullah_Tamimi",
+      "userEmail": "Abdullah_Tamimi@gmail.com",
+      "userPassword": "tnlmhgffnh3",
+      "id": "2983"
+    },
+    {
+      "id": "faaa",
+      "userId": 4,
+      "userName": "tala_alosili",
+      "userEmail": "tala_alosili@gmail.com",
+      "userPassword": "tnlmhgffnh3"
+    },
+    {
+      "id": "446c",
+      "userId": 5522,
+      "userName": "rashed_35468",
+      "userEmail": "rashed_35468@gmail.com",
+      "userPassword": "tnlmhggfnh3"
+    },
+    {
+      "id": "e51a",
+      "userId": 1523,
+      "userName": "Yasmeenabuzaid",
+      "userEmail": "Yasmeenabuzaid@gmail.com",
+      "userPassword": "Yasmeenabuzaid**"
+    },
+    {
+      "id": "2933",
+      "userId": 2181,
+      "userName": "lailaYaseen",
+      "userEmail": "lailaYaseen@gmail.com",
+      "userPassword": "lailaYaseen889"
+    },
+    {
+      "id": "8b86",
+      "userId": 3749,
+      "userName": "zaidsaafeen",
+      "userEmail": "zaidsaafeen@gmail.com",
+      "userPassword": "Mostfa77**"
+    }
+  ],
+  "product": [
+    {
+      "productId": 1,
+      "id": "2",
+      "productName": "Evenflo Revolve360 Extend All-in-One Rotational Car Seat with Quick Clean Cover (Rowe Pink)",
+      "productPrice": 319,
+      "productImage": "https://m.media-amazon.com/images/I/81aJ1AKGx0L._SL1500_.jpg",
+      "isFavorite": true
+    },
+    {
+      "productId": 2,
+      "id": "2",
+      "productName": "Qhou KRIB-XQB201A-GREY6 Full Automatic Washing Machine, Gold",
+      "productPrice": 225,
+      "productImage": "https://m.media-amazon.com/images/I/61wSYqDEgeL._AC_SL1500_.jpg",
+      "isFavorite": false
+    },
+    {
+      "productId": 3,
+      "id": "3",
+      "productName": "AC Infinity Advance Grow System 3x3",
+      "productPrice": 699,
+      "productImage": "https://m.media-amazon.com/images/I/81HgLJqSsnL._AC_SL1500_.jpg",
+      "isFavorite": true
+    }
+  ]
+}
